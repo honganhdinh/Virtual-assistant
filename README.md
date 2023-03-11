@@ -1,2 +1,2 @@
 # Virtual-assistant
-Python code AI Virtual assistant
+AI Virtual assistant code by Python
